@@ -236,7 +236,7 @@ class PaymentMethodSelect(discord.ui.Select):
             discord.SelectOption(
                 label="Bitcoin",
                 description="Pay with Bitcoin",
-                emoji="₿",
+                emoji="🪙",
                 value="Bitcoin (BTC)"
             ),
             discord.SelectOption(
