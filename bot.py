@@ -474,10 +474,10 @@ ROBux_OPTIONS = [
 
 PAYMENT_OPTIONS = [
     discord.SelectOption(label="Litecoin", emoji="🪙", value="Litecoin"),
-    discord.SelectOption(label="Ethereum", emoji="◆", value="Ethereum"),
+    discord.SelectOption(label="Ethereum", emoji="💎", value="Ethereum"),
     discord.SelectOption(label="Tether USD (BSC)", emoji="💵", value="Tether USD (BSC)"),
-    discord.SelectOption(label="Solana", emoji="◎", value="Solana"),
-    discord.SelectOption(label="Bitcoin", emoji="₿", value="Bitcoin"),
+    discord.SelectOption(label="Solana", emoji="☀️", value="Solana"),
+    discord.SelectOption(label="Bitcoin", emoji="🟠", value="Bitcoin"),
 ]
 
 
